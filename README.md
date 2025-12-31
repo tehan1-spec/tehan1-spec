@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=안녕하세요&fontSize=40&fontColor=000000" />
+</div>
 
 <!--
 **tehan1-spec/tehan1-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
